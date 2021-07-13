@@ -14,7 +14,7 @@
 // $done({error : "error description"});
 // $done({content : "the modified content"});
 
-var sampleA = "shadowsocks=ui-a.example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, tag=Tag-A";
-var sampleB = "shadowsocks=ui-b.example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, tag=Tag-B";
-var total = sampleA + "\n" + sampleB;
+var Singapore = "shadowsocks=sg-sng-st003.prod.surfshark.com:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇸🇬";
+var United States = "shadowsocks=92.119.177.23:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸";
+var total = Singapore + "\n" + United States;
 $done({content : total});
