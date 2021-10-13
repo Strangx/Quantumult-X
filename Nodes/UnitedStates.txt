@@ -1,0 +1,2 @@
+shadowsocks=us-nyc.prod.surfshark.com:45746, method=aes-256-gcm, password=wEsFcHCvbL4eJkL4DZQa7RgR, fast-open=false, udp-relay=false, tag=🇺🇸 ➤ 𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 1
+shadowsocks=us-nyc.prod.surfshark.com:49338, method=aes-256-gcm, password=5tumuBXBwxBvd4MjWYdZdeUX, fast-open=false, udp-relay=false, tag=🇺🇸 ➤ 𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 2
